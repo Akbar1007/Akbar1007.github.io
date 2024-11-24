@@ -1,0 +1,17 @@
+h3 {
+	color: rgb(79, 79, 248);
+}
+
+h1 {
+	color: blueviolet;
+}
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 900;
+}
+
+ul {
+	background-color: bisque;
+}
